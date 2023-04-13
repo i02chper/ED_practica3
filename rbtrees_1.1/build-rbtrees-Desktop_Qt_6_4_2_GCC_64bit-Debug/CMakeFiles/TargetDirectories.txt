@@ -1,0 +1,4 @@
+/home/rachape99/Escritorio/Ed_Practicas3/rbtrees_1.1/build-rbtrees-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/test_bstree.dir
+/home/rachape99/Escritorio/Ed_Practicas3/rbtrees_1.1/build-rbtrees-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/test_rbtree.dir
+/home/rachape99/Escritorio/Ed_Practicas3/rbtrees_1.1/build-rbtrees-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/rachape99/Escritorio/Ed_Practicas3/rbtrees_1.1/build-rbtrees-Desktop_Qt_6_4_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
